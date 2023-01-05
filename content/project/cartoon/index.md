@@ -7,4 +7,5 @@ tags:
 external_link: http://github.com
 image:
   filename: photo_2022-12-15-16.49.01.jpeg
+  preview_only: true
 ---
