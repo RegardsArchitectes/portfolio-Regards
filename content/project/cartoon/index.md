@@ -1,11 +1,12 @@
 ---
-title: Projet 1
+title: "Ceci est le projet 1... "
 date: 2022-01-01
 summary: Write about your project here...
 tags:
   - CV
-external_link: https://www.google.com
+external_link: ""
+links: []
 image:
-  filename: photo_2022-12-15-16.49.01.jpeg
+  filename: featured.jpg
   preview_only: true
 ---
