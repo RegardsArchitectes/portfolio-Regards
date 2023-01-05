@@ -1,5 +1,5 @@
 ---
-title: Cartoon Face Generator
+title: Projet 1
 date: 2022-01-01
 summary: Write about your project here...
 tags:
