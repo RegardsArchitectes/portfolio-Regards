@@ -13,3 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Write about your project here…
