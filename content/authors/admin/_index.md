@@ -1,6 +1,4 @@
 ---
-title: Regards Architectes
-role: ""
 avatar_filename: avatar.png
 bio: Notre bureau est chargé de concevoir et de planifier des bâtiments et des
   espaces de vie, en prenant en compte l'esthétique, la fonctionnalité, la
@@ -18,6 +16,9 @@ social:
 superuser: true
 status:
   icon: ☕️
+title: Regards Architectes
+role: ""
+email: timothee.jaubert@gmail.com
 ---
 Nous sommes un cabinet d'architecture parisiens spécialistes en ingénieurie bioclimatique
 
