@@ -9,7 +9,7 @@ tags:
 links:
   - url: google.com
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
