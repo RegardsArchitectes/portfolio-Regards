@@ -4,7 +4,9 @@ subtitle: le sous titre
 date: 2023-01-06T17:48:50.621Z
 summary: voyons commenbt ça se passe
 draft: false
-featured: false
+featured: true
+tags:
+  - NLP
 image:
   filename: featured.jpg
   focal_point: Smart
