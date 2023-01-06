@@ -1,6 +1,6 @@
 ---
 title: "Ceci est le projet 1... "
-subtitle: (DTG)
+subtitle: Ceci est un DTG
 date: 2022-01-01
 summary: DTG d'une école parisienne
 tags:
