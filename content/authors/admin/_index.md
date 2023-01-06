@@ -1,6 +1,7 @@
 ---
 title: "Regards Architectes "
 role: ""
+avatar_filename: crayons.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
