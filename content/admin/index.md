@@ -5,9 +5,7 @@ private: true
 outputs:
   - wowchemycms_config
   - HTML
----
 
----
 title: My page
 type: landing
 
