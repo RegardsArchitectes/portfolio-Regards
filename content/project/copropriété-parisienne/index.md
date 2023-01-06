@@ -5,7 +5,7 @@ summary: Lorem Ipsum etc etc
 draft: false
 featured: false
 tags:
-  - DTG
+  - NLP
 links:
   - url: google.com
 image:
