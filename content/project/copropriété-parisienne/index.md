@@ -6,8 +6,7 @@ draft: false
 featured: false
 tags:
   - NLP
-links:
-  - url: google.com
+links: []
 image:
   filename: featured.jpg
   focal_point: Smart
