@@ -23,6 +23,7 @@ Nous sommes un cabinet d'architecture parisiens spécialistes en ingénieurie bi
 
 * Rénovation d'une maison à Compiègne
 * Fondage de cloche d'une église
+* Décorticage de chataignes avec méthode assisté par ordinateur  
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
