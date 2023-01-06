@@ -2,8 +2,9 @@
 title: Regards Architectes
 role: ""
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Notre bureau est chargé de concevoir et de planifier des bâtiments et des
+  espaces de vie, en prenant en compte l'esthétique, la fonctionnalité, la
+  sécurité et le respect de l'environnement.
 social:
   - icon: envelope
     icon_pack: fas
