@@ -1,5 +1,5 @@
 ---
-widget: posts
+widget: post
 widget_id: Recent-posts
 headless: true
 weight: 10
