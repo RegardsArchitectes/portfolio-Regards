@@ -28,12 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Rénovation
+      tag: Rénovation
+    - name: Construction
+      tag: Construction
     - name: DTG
       tag: DTG
 
