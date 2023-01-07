@@ -1,5 +1,5 @@
 ---
-title: Rénovation complète d'un appartement parisien
+title: Rénovation d'un appartement parisien
 date: 2023-01-06T17:09:45.807Z
 summary: Rénovation complète blabla
 draft: false
