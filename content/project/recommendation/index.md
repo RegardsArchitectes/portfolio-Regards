@@ -1,8 +1,9 @@
 ---
-title: Recommendation Systems
+title: Rénovation d'une Ecole primaire
+subtitle: BDC
+date: 2022-01-01
 summary: Write about your project here...
 tags:
-  - ML
-date: 2022-01-01
+  - Rénovation
 external_link: http://github.com
 ---
