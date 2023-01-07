@@ -1,8 +1,9 @@
 ---
-title: Cosmetics Semantic Search
+title: Construction d'un maison en Alsace
+subtitle: "Maison individuelle "
+date: 2022-01-01
 summary: Write about your project here...
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - Construction
+external_link: ""
 ---
