@@ -5,7 +5,7 @@ summary: Rénovation complète blabla
 draft: false
 featured: false
 tags:
-  - NLP
+  - Rénovation
 links: []
 image:
   filename: featured.jpg
