@@ -15,7 +15,7 @@ social:
     link: https://instagram.com/geocushen
 superuser: true
 status:
-  icon: ☕️
+  icon:
 title: Regards Architectes
 role: ""
 email: timothee.jaubert@gmail.com
