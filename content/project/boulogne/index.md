@@ -4,9 +4,10 @@ date: 2023-01-09T17:27:30.715Z
 draft: false
 featured: false
 image:
-  filename: jem-caofessart-8275.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Rénovation
 ---
 
 ![](jem-caofessart-8239.jpg)
