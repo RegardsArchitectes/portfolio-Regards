@@ -1,5 +1,5 @@
 ---
-title: Rénovation d'un appartement parisien
+title: Luxembourg
 date: 2023-01-06T17:09:45.807Z
 summary: Rénovation complète blabla
 draft: false
