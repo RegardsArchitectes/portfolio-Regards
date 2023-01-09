@@ -2,7 +2,7 @@
 title: Blanche de Castille
 subtitle: ""
 date: 2022-01-01
-summary: ""
+summary: s
 tags:
   - Rénovation
 external_link: ""
