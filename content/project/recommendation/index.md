@@ -19,7 +19,7 @@ En général, le travail d'un architecte consiste à créer des espaces de vie e
 
 ![](blanche_9.png)
 
-![](blanche_8.png)
+![](jem-cao-oct-6060.jpg)
 
 ![](jem-cao-0060.jpg)
 
