@@ -1,5 +1,5 @@
 ---
-title: Rénovation d'une Ecole primaire
+title: Rénovation d'une école primaire
 subtitle: Blanche de Castille
 date: 2022-01-01
 summary: Blanche de Castille (summary)
