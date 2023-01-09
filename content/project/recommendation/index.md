@@ -16,3 +16,15 @@ L'architecte devra également tenir compte de nombreux facteurs, tels que les be
 Le travail de l'architecte peut également inclure la consultation avec les clients, la participation à des réunions de design et de planification, et la présentation de plans et de propositions aux clients et aux décideurs.
 
 En général, le travail d'un architecte consiste à créer des espaces de vie et de travail sécuritaires, fonctionnels et esthétiques en utilisant l'art et la science de la conception architecturale.
+
+![](blanche_9.png)
+
+![](blanche_8.png)
+
+![](jem-cao-0060.jpg)
+
+![](jem-cao-0097.jpg)
+
+![](a16107.jpg)
+
+![](a16095.jpg)
