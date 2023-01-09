@@ -4,7 +4,7 @@ date: 2023-01-09T17:27:30.715Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: jem-caofessart-8275.jpg
   focal_point: Smart
   preview_only: false
 ---
