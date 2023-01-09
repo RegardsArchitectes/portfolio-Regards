@@ -10,7 +10,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: Rénovation
+  caption: ""
 ---
 
 ![](jem-caofessart-8239.jpg)
