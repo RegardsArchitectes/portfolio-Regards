@@ -1,6 +1,7 @@
 ---
 title: Boulogne
 date: 2023-01-09T17:27:30.715Z
+summary: rénovation d'un appart
 draft: false
 featured: false
 image:
