@@ -7,4 +7,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: DTG
 ---
