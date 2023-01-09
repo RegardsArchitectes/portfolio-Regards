@@ -2,7 +2,7 @@
 title: Dabo
 subtitle: ""
 date: 2022-01-01
-summary: ""
+summary: construction d'une maison
 tags:
   - Construction
 external_link: ""
