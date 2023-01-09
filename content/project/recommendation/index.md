@@ -17,7 +17,7 @@ Le travail de l'architecte peut également inclure la consultation avec les clie
 
 En général, le travail d'un architecte consiste à créer des espaces de vie et de travail sécuritaires, fonctionnels et esthétiques en utilisant l'art et la science de la conception architecturale.
 
-![](blanche_9.png)
+![](jem-cao-oct-6042.jpg)
 
 ![](jem-cao-oct-6060.jpg)
 
