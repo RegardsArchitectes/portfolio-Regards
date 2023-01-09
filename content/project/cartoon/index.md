@@ -1,5 +1,5 @@
 ---
-title: DTG d'une copropriété parisienne
+title: DTG 1
 subtitle: "Ceci est un DTG "
 date: 2022-01-01
 summary: DTG d'une école parisienne
