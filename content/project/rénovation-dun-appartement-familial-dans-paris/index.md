@@ -19,4 +19,4 @@ En tant qu'architecte, lors de la rénovation d'un grand appartement à Paris, m
 
 ![](jem-caomurat-b-8826w.jpg)
 
-![Alt Teext](jem-caomurat-8803.jpg "Dernière Image")
+![](jem-caomurat-8803.jpg)
