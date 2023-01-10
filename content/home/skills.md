@@ -19,9 +19,9 @@ feature:
     icon_pack: fas
     name: Statistics
     description: 100%
-  - icon: camera-retro
-    icon_pack: far
+  - icon: compass-drafting
+    icon_pack: fas
     name: Photography
-    description: 10%
+    description: 100%
 
 ---
