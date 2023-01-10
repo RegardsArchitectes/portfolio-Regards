@@ -12,7 +12,7 @@ weight: 30 # The position of section on page
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - icon: pencil
-    icon_pack: fab
+    icon_pack: fas
     name: Etudes et plans
     description: hop
   - icon: helmet-safety
