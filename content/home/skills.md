@@ -1,6 +1,6 @@
 ---
 widget: featurette # As of v5.8-dev, 'featurette' is renamed 'features'
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Nos offres de service
