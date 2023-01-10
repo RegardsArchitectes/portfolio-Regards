@@ -24,7 +24,7 @@ feature:
     name: Etudes
     description: hop
   - icon: forklift
-    icon_pack: far
+    icon_pack: fas
     name: Suivi des entreprises
     description: hop
 
