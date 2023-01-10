@@ -20,7 +20,7 @@ feature:
     name: Statistics
     description: 100%
   - icon: compass-drafting
-    icon_pack: fal
+    icon_pack: far
     name: Photography
     description: 100%
 
