@@ -1,13 +1,11 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
 ---
 widget: featurette # As of v5.8-dev, 'featurette' is renamed 'features'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Nos offres de service
+title: My Experience
 subtitle:
-weight: 30 # The position of section on page
+weight: 10 # The position of section on page
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
@@ -15,14 +13,20 @@ weight: 30 # The position of section on page
 feature:
   - icon: r-project
     icon_pack: fab
-    name: Construction
-    description: 100%
+    name: R
+    description: 90%
   - icon: chart-line
     icon_pack: fas
-    name: Rénovation
+    name: Statistics
     description: 100%
-  #- icon: camera-retro
-  #  icon_pack: fas
-  #  name: Permis de construiree
-  #  description: 100%
+  - icon: camera-retro
+    icon_pack: fas
+    name: Photography
+    description: 10%
+
+  # Example using an emoji as an icon.
+  - icon: '😄'
+    icon_pack: emoji
+    name: Emojiness
+    description: 100%
 ---
