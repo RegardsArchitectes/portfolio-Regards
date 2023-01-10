@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # Put Your Section Options Here (title, background, etc.) ...
 title: My Experience
 subtitle:
-weight: 10 # The position of section on page
+weight: 30 # The position of section on page
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
@@ -24,14 +24,4 @@ feature:
     name: Photography
     description: 10%
 
-  # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
-    name: Emojiness
-    description: 100%
-   # Example using an emoji as an icon.
-  - icon: fa-compass-drafting
-    icon_pack: fa
-    name: Emojiness
-    description: 100%
 ---
