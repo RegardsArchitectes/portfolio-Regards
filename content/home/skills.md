@@ -20,7 +20,7 @@ feature:
     name: Statistics
     description: 100%
   - icon: camera-retro
-    icon_pack: fas
+    icon_pack: far
     name: Photography
     description: 10%
 
