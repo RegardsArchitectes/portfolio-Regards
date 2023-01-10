@@ -1,3 +1,4 @@
+---
 widget: featurette # As of v5.8-dev, 'featurette' is renamed 'features'
 headless: true  # This file represents a page section.
 
@@ -28,3 +29,4 @@ feature:
     icon_pack: emoji
     name: Emojiness
     description: 100%
+---
