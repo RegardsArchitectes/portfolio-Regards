@@ -25,5 +25,4 @@ feature:
     icon_pack: fas
     name: Permis de construiree
     description: 100%
-  
 ---
