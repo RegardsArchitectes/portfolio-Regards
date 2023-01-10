@@ -13,7 +13,7 @@ weight: 30 # The position of section on page
 feature:
   - icon: pencil
     icon_pack: fas
-    name: Etudes et plans
+    name: Esquisses
     description: hop
   - icon: helmet-safety
     icon_pack: fas
