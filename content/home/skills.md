@@ -1,3 +1,5 @@
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 ---
 widget: featurette # As of v5.8-dev, 'featurette' is renamed 'features'
 headless: false  # This file represents a page section.
@@ -13,20 +15,25 @@ weight: 30 # The position of section on page
 feature:
   - icon: r-project
     icon_pack: fab
-    name: R
-    description: 90%
+    name: Construction
+    description: 100%
   - icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Rénovation
     description: 100%
   - icon: camera-retro
     icon_pack: fas
-    name: Photography
-    description: 10%
+    name: Permis de construiree
+    description: 100%
+  - icon: fa-compass-drafting
+    icon_pack: fa-regular
+    name: Compas
+    description: 100%
+
 
   # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
-    name: Emojiness
-    description: 100%
+  #- icon: '😄'
+  #  icon_pack: emoji
+  #  name: Emojiness
+  #  description: 100%
 ---
