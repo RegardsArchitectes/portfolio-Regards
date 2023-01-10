@@ -21,8 +21,8 @@ feature:
     icon_pack: fas
     name: Rénovation
     description: 100%
-  - icon: camera-retro
-    icon_pack: fas
-    name: Permis de construiree
-    description: 100%
+  #- icon: camera-retro
+  #  icon_pack: fas
+  #  name: Permis de construiree
+  #  description: 100%
 ---
