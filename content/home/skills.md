@@ -30,8 +30,8 @@ feature:
     name: Emojiness
     description: 100%
    # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
+  - icon: fa-compass-drafting
+    icon_pack: fa
     name: Emojiness
     description: 100%
 ---
