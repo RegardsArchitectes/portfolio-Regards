@@ -25,9 +25,5 @@ feature:
     icon_pack: fas
     name: Permis de construiree
     description: 100%
-  - icon: fa-compass-drafting
-    icon_pack: fa-regular
-    name: Compas
-    description: 100%
   
 ---
