@@ -2,7 +2,7 @@
 
 ---
 widget: featurette # As of v5.8-dev, 'featurette' is renamed 'features'
-headless: false  # This file represents a page section.
+headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Nos offres de service
@@ -29,12 +29,5 @@ feature:
     icon_pack: fa-regular
     name: Compas
     description: 100%
-
-
-  # Example using an emoji as an icon.
-  #- icon: '😄'
-  #  icon_pack: emoji
-  #  name: Emojiness
-  #  description: 100%
   
 ---
