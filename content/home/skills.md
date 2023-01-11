@@ -29,7 +29,7 @@ feature:
     name: Suivi des entreprises
     description: hop
   - icon: ruler-triangle
-    icon_pack: fas
+    icon_pack: fa
     name: Metrage
     description: hop
   - icon: solar-panel
