@@ -28,13 +28,13 @@ feature:
     icon_pack: fas
     name: Suivi des entreprises
     description: hop
-  - icon: paint-roller
+  - icon: ruler-triangle
     icon_pack: far
-    name: Suivi des entreprises
+    name: Metrage
     description: hop
-  - icon: paint-roller
+  - icon: solar-panel
     icon_pack: fa
-    name: Suivi des entreprises
+    name: Intégration énergie renouvellables
     description: hop
 
 ---
