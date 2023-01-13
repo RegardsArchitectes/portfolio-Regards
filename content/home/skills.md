@@ -38,7 +38,7 @@ feature:
     description: hop
     
   - icon: house-circle-check
-    icon_pack: fa
+    icon_pack: fas
     name: Optimisation du rendement du bâti
     description: hop
   - icon: solar-panel
