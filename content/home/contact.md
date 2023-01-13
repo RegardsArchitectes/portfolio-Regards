@@ -22,8 +22,8 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: agence-regards@gmail.com
-  phone: 888 888 88 88
+  email: atelier@regards-architectes.com
+  phone: 0621048028
   address:
     street: Boulevard Péreire
     city: Paris 
