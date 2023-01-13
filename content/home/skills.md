@@ -9,32 +9,32 @@ weight: 30 # The position of section on page
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/page-builder/#icons compass-drafting
 feature:
-  - icon: pencil
+  - icon: house
     icon_pack: fas
-    name: Esquisses
+    name: Audit de patrimoine immobilier
     description: hop
-  - icon: helmet-safety
+  - icon: folder-open
     icon_pack: fas
-    name: Suivi de chantier
+    name: Etudes et dépôts des pièces administratives
     description: hop
-  - icon: compass-drafting
+  - icon: paint-roller
     icon_pack: far
-    name: Etudes
+    name: Consultation des entreprises
     description: hop
    
-  - icon: paint-roller
+  - icon: helmet-safety
     icon_pack: fas
-    name: Suivi des entreprises
+    name: Pilotage et suivi de chantier
     description: hop
-  - icon: ruler
+  - icon: location-dot
     icon_pack: fas
-    name: Metrage
+    name: Intégration au site
     description: hop
   - icon: solar-panel
     icon_pack: fa
-    name: Intégration énergie renouvellables
+    name: Optimisation du rendement du bâti avec intégration des énergies renouvelables
     description: hop
 
 ---
