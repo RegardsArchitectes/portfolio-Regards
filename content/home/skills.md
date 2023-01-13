@@ -32,7 +32,7 @@ feature:
     icon_pack: fas
     name: Pilotage et suivi de chantier
     # description: hop
-  - icon: fa-mountains
+  - icon: mountains
     icon_pack: fas
     name: Intégration au site
     # description: hop
