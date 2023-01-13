@@ -38,7 +38,7 @@ feature:
     # description: hop
    
   # house-day 
-  - icon: temperature-up 
+  - icon: solar-panel
     icon_pack: fas
     name: Optimisation du rendement du bâti
     # description: hop
