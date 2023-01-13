@@ -37,7 +37,7 @@ feature:
     name: Intégration au site
     # description: hop
     
-  - icon: house-circle-check
+  - icon: house-flag
     icon_pack: far
     name: Optimisation du rendement du bâti
     # description: hop
