@@ -32,13 +32,13 @@ feature:
     icon_pack: fas
     name: Pilotage et suivi de chantier
     description: hop
-  - icon: mountains
-    icon_pack: far
+  - icon: mountain-sun
+    icon_pack: fa
     name: Intégration au site
     description: hop
     
   - icon: house-circle-check
-    icon_pack: far
+    icon_pack: fa
     name: Optimisation du rendement du bâti
     description: hop
   - icon: solar-panel
