@@ -23,7 +23,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: atelier@regards-architectes.com
-  phone: 0621048028
+  phone: 06 21 04 80 28
   address:
     street: Boulevard Péreire
     city: Paris 
