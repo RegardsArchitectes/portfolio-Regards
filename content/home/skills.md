@@ -15,15 +15,19 @@ feature:
     icon_pack: fas
     name: Audit de patrimoine immobilier
     description: hop
+  - icon: compass-drafting
+    icon_pack: fas
+    name: Esquisses
+    description: hop
   - icon: folder-open
     icon_pack: fas
     name: Etudes et dépôts des pièces administratives
     description: hop
+    
   - icon: paint-roller
     icon_pack: far
     name: Consultation des entreprises
     description: hop
-   
   - icon: helmet-safety
     icon_pack: fas
     name: Pilotage et suivi de chantier
@@ -32,9 +36,14 @@ feature:
     icon_pack: fas
     name: Intégration au site
     description: hop
+    
+  - icon: house-circle-check
+    icon_pack: fa
+    name: Optimisation du rendement du bâti
+    description: hop
   - icon: solar-panel
     icon_pack: fa
-    name: Optimisation du rendement du bâti avec intégration des énergies renouvelables
+    name: Intégration des énergies renouvelables
     description: hop
 
 ---
