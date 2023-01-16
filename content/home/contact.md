@@ -4,8 +4,8 @@ widget: contact
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Contact
-subtitle: ''
+title: Contactez nous
+subtitle: 'Contactez nous'
 weight: 40
 
 content:
