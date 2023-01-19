@@ -9,7 +9,7 @@ external_link: ""
 image:
   filename: featured.jpg
 ---
-Rénovation du hall (cantine et sport)
+Hall
 
 ![](RC1/jem-cao-6001.jpg)
 
@@ -19,7 +19,7 @@ Rénovation du hall (cantine et sport)
 
 ![](RC1/jem-cao-6107.jpg)
 
-Rénovation du bureau de la directrice 
+Bureau de la directrice 
 
 ![](RC2/jem-cao-7001.jpg)
 
@@ -41,4 +41,35 @@ Accueil et secrétariat
 
 ![](RC4/jem-cao-0076.jpg)
 
+Salle de déjeuner des professeurs
+
+![](RC5/jem-cao-7670.jpg)
+
+![](RC5/jem-cao-7686.jpg)
+
+![](RC5/jem-cao-7697.jpg)
+
+![](RC5/jem-cao-7705.jpg)
+
+Salles de classe
+
+![](RC6/jem-cao-7711.jpg)
+
+![](RC6/jem-cao-7723.jpg)
+
+Réfectoire des écoliers et salle de repos
+
+![](RC7/jem-cao-6204.jpg)
+
+![](RC7/jem-cao-6207.jpg)
+
+![](RC7/jem-cao-6228.jpg)
+
+![](RC7/jem-cao-6242.jpg)
+
+![](RC7/jem-cao-6250.jpg)
+
+![](RC7/jem-cao-6251.jpg)
+
+![](RC7/jem-cao-6255.jpg)
 
