@@ -1,7 +1,7 @@
 ---
 title: Blanche de Castille
 subtitle: ""
-date: 2022-01-01
+date: 2021-11-01
 summary: Rénovation d'une école
 tags:
   - Rénovation

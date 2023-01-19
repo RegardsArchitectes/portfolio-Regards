@@ -1,5 +1,5 @@
 ---
-title: DTG 1
+title: DTG
 subtitle: "Ceci est un DTG "
 date: 2022-01-01
 summary: DTG d'une école parisienne
