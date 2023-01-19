@@ -21,3 +21,12 @@ Rénovation du hall (cantine et sport)
 
 Rénovation du bureau de la directrice 
 
+![](RC2/jem-cao-7001.jpg)
+
+![](RC2/jem-cao-7002.jpg)
+
+![](RC2/jem-cao-7003.jpg)
+
+![](RC2/jem-cao-7020.jpg)
+
+![](RC2/jem-cao-7025.jpg)
