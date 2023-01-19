@@ -37,10 +37,12 @@ content:
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
+
+design:
   background:
     image:
       # Name of image in `assets/media/`.
-      filename: bas.jpg
+      filename: assets/media/bas.jpg
       # Apply image filters?
       filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
