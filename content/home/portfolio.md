@@ -37,7 +37,7 @@ content:
 
 design:
   columns: '1'
-  view: card # showcase # masonry
+  view: showcase #card # masonry
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
