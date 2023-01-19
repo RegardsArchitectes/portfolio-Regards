@@ -36,8 +36,8 @@ content:
       tag: DTG
 
 design:
-  columns: '2'
-  view: masonry
+  columns: '1'
+  view: showcase # masonry
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
