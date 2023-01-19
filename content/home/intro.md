@@ -16,6 +16,13 @@ author: admin
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
+
+design:
+  background:
+    image:
+      # Name of image in `assets/media/`.
+      filename: bas.jpg
+
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
