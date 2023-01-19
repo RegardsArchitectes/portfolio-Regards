@@ -30,3 +30,15 @@ Rénovation du bureau de la directrice
 ![](RC2/jem-cao-7020.jpg)
 
 ![](RC2/jem-cao-7025.jpg)
+
+Accueil et secrétariat 
+
+![](RC4/jem-cao-0001.jpg)
+
+![](RC4/jem-cao-0002.jpg)
+
+![](RC4/jem-cao-0060.jpg)
+
+![](RC4/jem-cao-0076.jpg)
+
+
