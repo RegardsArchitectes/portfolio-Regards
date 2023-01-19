@@ -8,7 +8,7 @@ tags:
   - Rénovation
 links: []
 image:
-  filename: jem-cao-9425.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
