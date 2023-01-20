@@ -12,6 +12,13 @@ comments: false  # Show comments?
 header:
 #  caption: ""
   image: "P1060805.png"
+
+image:
+  filename: P1060805.png
+  focal_point: Smart
+  preview_only: false
 ---
+
+
 
 Add your *content* here...
