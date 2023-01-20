@@ -23,6 +23,10 @@ author: admin
 #      # Name of image in `assets/media/`.
 #      filename: bas.jpg
 
+banner:
+  image: "bas.jpg"
+
+
 design:
   background:
     # Choose colors such as from https://html-color-codes.info
