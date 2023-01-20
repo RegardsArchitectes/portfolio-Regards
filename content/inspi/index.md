@@ -39,22 +39,5 @@ gantt
 ```
 
 
-
-![](P1060722.png)
-
-![](P1060805.png)
-
-![](P1070461.png)
-
-![](P1070479.png)
-
-![](P1070482.png)
-
-
-Puis une gallerie 
-Puis une gallerie 
-Puis une gallerie 
-Puis une gallerie 
-
-{{< gallery album="album_folder" >}}
+{{< gallery album="inspirations_photos" resize_options="250x250" >}}
 
