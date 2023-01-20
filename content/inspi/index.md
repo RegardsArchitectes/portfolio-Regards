@@ -22,3 +22,15 @@ image:
 
 
 Add your *content* here...
+
+Je suis également responsable de surveiller l'avancement du projet et de résoudre tout problème technique qui pourrait survenir pendant la rénovation.
+
+![](P1060722.png)
+
+![](P1060805.png)
+
+![](P1070461.png)
+
+![](P1070479.png)
+
+![](P1070482.png)
