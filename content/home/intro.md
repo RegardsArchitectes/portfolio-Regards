@@ -29,7 +29,7 @@ design:
     gradient_start: '#95b5f5'
     gradient_end: '#1a202c'
     # The gradient angle from 0-360 degrees
-    gradient_angle: 150 #180 for the scrolling direction
+    gradient_angle: 180 # for the scrolling direction
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
   spacing:
