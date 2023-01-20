@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
 #  caption: ""
-  image: "P1060805.jpg"
+  image: "P1060805.png"
 ---
 
 Add your *content* here...

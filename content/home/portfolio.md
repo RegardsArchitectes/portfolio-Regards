@@ -40,5 +40,7 @@ design:
   view: showcase #card # masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30", "0", "30px", "0"]
 ---
