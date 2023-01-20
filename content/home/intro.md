@@ -26,15 +26,15 @@ author: admin
 design:
   background:
     # Choose colors such as from https://html-color-codes.info
-    gradient_start: '#a7b7d6'
+    gradient_start: '#95b5f5'
     gradient_end: '#1a202c'
     # The gradient angle from 0-360 degrees
-    gradient_angle: 180
+    gradient_angle: 150 #180 for the scrolling direction
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["40px", "0", "40px", "0"]
+    padding: ["10px", "0", "70px", "0"]
 
 ---
 
