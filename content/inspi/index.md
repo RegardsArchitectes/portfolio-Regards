@@ -8,15 +8,14 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `assets/media/` folder).
-header:
-#  caption: ""
-  image: "P1060805.png"
-
-image:
-  filename: P1060805.png
-  focal_point: Smart
-  preview_only: false
+design:
+  columns: '2'
+  view: showcase #card # masonry
+  flip_alt_rows: true
+  background: {}
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30", "0", "30px", "0"]
 ---
 
 
@@ -39,5 +38,5 @@ gantt
 ```
 
 
-{{< gallery album="inspirations_photos" resize_options="250x250" >}}
+{{< gallery album="inspirations_photos" resize_options="450x450" >}}
 
