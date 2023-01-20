@@ -1,6 +1,6 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
+title: Inspirations
+summary: Une page d'inspirations
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -9,9 +9,9 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
-#header:
+header:
 #  caption: ""
-#  image: ""
+  image: "P1060805.jpg"
 ---
 
 Add your *content* here...
