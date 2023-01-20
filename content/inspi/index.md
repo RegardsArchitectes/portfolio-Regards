@@ -56,5 +56,5 @@ Puis une gallerie
 Puis une gallerie 
 Puis une gallerie 
 
-{{< gallery album="<ALBUM-FOLDER>" >}}
+{{< gallery album="ALBUM-FOLDER" >}}
 
