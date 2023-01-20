@@ -9,9 +9,9 @@ headless: true
 weight: 10
 
 author: admin
-design:
-  background:
-    color: '#9eacba'
+#design:
+#  background:
+#    color: '#9eacba'
 #    text_color_light: true
 #    video:
 #      path:  # enter filename of a video in /assets/media
@@ -22,6 +22,16 @@ design:
 #    image:
 #      # Name of image in `assets/media/`.
 #      filename: bas.jpg
+
+design:
+  background:
+    # Choose colors such as from https://html-color-codes.info
+    gradient_start: '#4bb4e3'
+    gradient_end: '#1a202c'
+    # The gradient angle from 0-360 degrees
+    gradient_angle: 180
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
 
 ---
 
