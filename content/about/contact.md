@@ -1,30 +1,45 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+
 widget: contact
+headless: true # This file represents a page section.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
+# Put Your Section Options Here (title, background, etc.) ...
+title: Vous avez un projet ? 
+subtitle: 'Contactez nous'
 weight: 50
 
-title: Get in touch
-subtitle:
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: false
+
+  # Contact details (edit or remove options as required)
+  email: atelier@regards-architectes.com
+  phone: 06 21 04 80 28
+  address:
+    street: Boulevard Péreire
+    city: Paris 
+
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: link vers qqch ? 
+      link: 'https://twitter.com/Twitter'
 
 design:
-  columns: '1'
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30", "0", "30px", "0"]
 ---
