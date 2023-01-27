@@ -36,6 +36,7 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+        * Will it stopping ???
 
   - title: Professor of Semiconductor Physics
     company: University X
