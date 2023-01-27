@@ -1,4 +1,3 @@
-<!--
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -8,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 0
 
 title: Experience
 subtitle:
@@ -36,7 +35,7 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        * Will it stopping ???
+        * apparently no
 
   - title: Professor of Semiconductor Physics
     company: University X
@@ -50,5 +49,3 @@ experience:
 design:
   columns: '1'
 ---
-
--->
