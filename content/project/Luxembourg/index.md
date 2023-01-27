@@ -12,15 +12,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Nous commençons par écouter attentivement vos souhaits et vos besoins en matière de rénovation. Nous prenons en compte **vos préférences esthétiques, ainsi que vos contraintes budgétaires** et de temps.
+## Un couple. Immeuble fin XIXème. 50 m². 4 mois de travaux.
 
-Nous réalisons un plan de design en conséquence. Nous prenons en compte l'emplacement de l'appartement, la disposition des pièces et la circulation, ainsi que les normes et réglementations en vigueur. **Nous vous présentons notre plan de design** et discutons de tous les détails avec vous.
+<p>Appartement composé de différentes chambres de service réunies, par un ancien propriétaire. L’appartement est sous les toits, isolé de celui-ci par un comble perdu et jouit d’une magnifique vue sur le jardin du Luxembourg. Un couloir distribue l’ensemble des chambres et l’ensemble est morcelé et soufre d’un manque d’unité. </p>
 
-Une fois que vous avez approuvé le plan de design, nous passons à la phase de mise en œuvre. Nous supervisons les travaux de rénovation et veillons à ce qu'ils soient réalisés de manière professionnelle et en respectant les délais.
+<p>Refonte complète des espaces: fluidifier, alléger, ouvrir le couloir et unifier les pièces donnant sur le jardin pour créer un vrai salon. Faire pénétrer la lumière et ouvrir la vue sur la cime des arbres pour rendre l’appartement plus vivant. Refonte technique complète: démolition et reprise de murs porteurs, traitement de cheminées, électricité, plomberie, salle de bains. Murs, sols et plafond seront repris. </p>
 
-Nous restons en contact avec vous tout au long de la rénovation et répondons à toutes vos questions et préoccupations. Nous nous assurons que vous êtes satisfait du progrès des travaux et que tout se déroule comme prévu.
+<p>Une bibliothèque et l’aménagement mobilier d’un ancien passage sont dessinés pour permettre de développer de la surface de rangement,  une mise en valeur d’objet d’art et révéler l’originalité des lieux. Un gris pâle et doux est choisi, pour capter la lumière sans éblouissement, le parquet en bois d’érable est repris pour son aspect chaleureux et contemporain.</p>
 
-Une fois la rénovation terminée, nous vous remettons l'appartement entièrement rénové et vous présentons notre facture finale. Nous sommes heureux de vous aider à aménager votre appartement de manière à ce qu'il corresponde parfaitement à vos goûts et à vos [besoins](https://www.service-public.fr/particuliers/vosdroits/F32059).
+<p>Dans cet espace doux et clair, la neutralité des teintes permet la mise en valeur du paysage qu’est le jardin et celle des pièces artistiques qui reflètent la personnalité originale des occupants.</p>
+
 
 
 ![](jem-cao-9401.jpg)
