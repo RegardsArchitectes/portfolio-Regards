@@ -60,7 +60,7 @@ author: admin
   # Text color (true=light or false=dark).
   text_color_light: true
 
-[design.spacing]
+[design.spacing]:
   # Customize the section spacing. Order is top, right, bottom, left.
   padding: ["20px", "0px", "20px", "0px"]
 
