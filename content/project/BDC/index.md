@@ -11,7 +11,10 @@ image:
 ---
 
 
-> ## 650 enfants de la petite section de maternelle au niveau CM2. 3 bâtiments. Sur cour début et milieu du XXème, sur rue 2006. 1 mois de travaux chaque été sur 6 ans.
+> ## 650 enfants de la petite section de maternelle au niveau CM2. 
+> ## 3 bâtiments. 
+> ## Sur cour début et milieu du XXème, sur rue 2006. 
+> ## 1 mois de travaux chaque été sur 6 ans.
 
 Restructuration salle polyvalente. Bureau de la direction et salle de réunion. 3 salles de classes du niveau CM2. 3 salles de classes du niveau CM1. Accueil et secrétariat, bureau de la comptabilité. Porche d’accès à l’école. Salle à manger des enseignants et du personnel administratif. Réfectoire des enfants et salle de repos. Améliorations et adjonctions de volume de rangement dans les salles de classes des CP et CE1. Aménagements extérieurs d’une cour de récréation.
 
