@@ -19,7 +19,7 @@ author: admin
 
 design:
   background:
-    image: fond.jpg
+    image: "fond.jpg"
       # Name of image in `assets/media/`.
     #  filters:
     #    # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
