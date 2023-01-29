@@ -16,7 +16,17 @@ image:
 > ## Sur cour début et milieu du XXème, sur rue 2006. 
 > ## 1 mois de travaux chaque été sur 6 ans.
 
-Restructuration salle polyvalente. Bureau de la direction et salle de réunion. 3 salles de classes du niveau CM2. 3 salles de classes du niveau CM1. Accueil et secrétariat, bureau de la comptabilité. Porche d’accès à l’école. Salle à manger des enseignants et du personnel administratif. Réfectoire des enfants et salle de repos. Améliorations et adjonctions de volume de rangement dans les salles de classes des CP et CE1. Aménagements extérieurs d’une cour de récréation.
+
+* Restructuration salle polyvalente. 
+* Bureau de la direction et salle de réunion. 
+* 3 salles de classes du niveau CM2. 
+* 3 salles de classes du niveau CM1. 
+* Accueil et secrétariat, bureau de la comptabilité. 
+* Porche d’accès à l’école. 
+* Salle à manger des enseignants et du personnel administratif. 
+* Réfectoire des enfants et salle de repos. 
+* Améliorations et adjonctions de volume de rangement dans les salles de classes des CP et CE1. 
+* Aménagements extérieurs d’une cour de récréation.
 
 ---
 
@@ -39,6 +49,7 @@ Au sol un marquage rouge et vert dessine un terrain de sport et des repères pou
 
 ![](RC1/jem-cao-6107.jpg)
 
+---
 ---
 
 ### Année 2-3 salles de classes du niveau CM2 
