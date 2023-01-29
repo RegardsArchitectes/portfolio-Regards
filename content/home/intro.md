@@ -17,11 +17,11 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 
-#design:
-#  background:
-#    image:
-#      # Name of image in `assets/media/`.
-#      filename: bas.jpg
+design:
+  background:
+    image:
+      # Name of image in `assets/media/`.
+      filename: essai.png
 
 
 design:
