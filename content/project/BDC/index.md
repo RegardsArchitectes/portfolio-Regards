@@ -118,7 +118,13 @@ Au sol un marquage rouge et vert dessine un terrain de sport et des repères pou
 
 ---
 
-Réfectoire des écoliers et salle de repos
+### Année 6- Réfectoire des enfants et Salle de repos
+
+<p>Dans la ligne de cohérence des modifications apportées à la salle à manger des adultes, les sols, murs, plafonds sont repris intégralement, un nouveau type d’éclairage est proposé. Un travail sur l’acoustique (les lieux sont fatigants car très bruyants) abouti à la proposition de faux-plafonds acoustiques: des lames en laine de roche et en finition bois avec un voile acoustique au-dessus des tables accueillant les enfants. </p>
+
+<p>Côté self, une succession d’ilots en laine de roche retrace le cheminement des enfants et offre une haute isolation acoustique, dans une zone particulièrement bruyante. Ces ilots offrent également une bonne diffusion lumineuse par la réflexion du voile mat de couleur claire. L’implantation d’apparence aléatoire et le jeu visuel entre luminaires, ilots acoustiques confère un caractère ludique à l’ensemble.</p>
+
+<p>Une grande fresque murale occupe le mur perpendiculaire à la façade et donne de la profondeur à l’espace. L’image choisie est celle d’un parc anglais, ses grands arbres répondent en clin d’œil à la cour de récréation et ses trois arbres. Les tonalités de vert reprennent le ton des plateaux des tables du réfectoire. Les deux murs de la salle polyvalente et du réfectoire se répondent ainsi, dans le choix de paysages apaisants suggérant un plongeon dans la nature.</p>
 
 ![](RC7/jem-cao-6204.jpg)
 
