@@ -19,7 +19,7 @@ author: admin
 
 design:
   background:
-    image: fond.JPG
+    image: fond.jpg
       # Name of image in `assets/media/`.
       # filename: 
 
