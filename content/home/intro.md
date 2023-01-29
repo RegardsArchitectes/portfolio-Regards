@@ -19,9 +19,9 @@ author: admin
 
 design:
   background:
-    image:
+    image: essai.png
       # Name of image in `assets/media/`.
-      filename: essai.png
+      # filename: 
 
 
 #design:
