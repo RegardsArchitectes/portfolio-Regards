@@ -55,7 +55,14 @@ Au sol un marquage rouge et vert dessine un terrain de sport et des repères pou
 
 ---
 
-Bureau de la directrice 
+### Année 3- Bureau de la direction, et salle de réunion
+
+<p>Ancienne salle à la fonction mal définie (trop petite pour accueillir une classe) pourtant bien placée avec une belle vue sur la rue et l’entrée de l’Ecole, ce qui permet une surveillance aisée des flux, il a été décidé par le chef d’établissement de réaménager cet espace en bureau de direction avec une salle de réunion intégrée, permettant de recevoir visiteurs, et réunions de conseil d’administration.</p>
+
+<p>Changement des châssis de façade pour une meilleure isolation thermique et acoustique. Refonte du cloisonnement et des volumes de rangements. Dans un souci d’économie, ils ont été réagencés et complétés. Une niche perfore la surface de rangement et apporte une note colorée. L’espace est fortement contraint par une banquette en béton dont il a été tiré parti en proposant un espace banquette pour les enfants convoqués dans le bureau et étagères de présentation de livres et matériel pédagogique. </p>
+
+<p>Plafonds acoustique, intégration de luminaires d’intensité réglable, murs blancs pour un espace sobre et minimaliste mettant en valeur la vue de la rue.</p>
+
 
 ![](RC2/jem-cao-7001.jpg)
 
@@ -69,7 +76,17 @@ Bureau de la directrice
 
 ---
 
-Accueil et secrétariat 
+### Année 4- Accueil et secrétariat, bureau de la comptabilité et porche d'accès à l'école
+
+<p>Point névralgique de l’administration de l’école et de l’accueil des parents, des enseignants et des enfants, il est demandé d’apporter une réponse efficace à cette fonction d’accueil. Placé en proue de l’établissement, à la fois vitrine de l’établissement et point de surveillance, deux secrétaires y travaillent ensemble et ont un grand besoin de rangements supplémentaires pour un classement efficace. La refonte de l’organisation spatiale de ces deux espaces de petites tailles et à la géométrie contraignante et peu lisible est une nécessité. </p>
+
+<p>L’implantation d’une épaisseur  de linéaires de rangements formant un doublage des murs existants permet une correction des géométries «en sifflet» et améliore la perception des volumes en la simplifiant. Travail sur l’acoustique du local, changement des châssis de façade pour une meilleure isolation thermique et acoustique, sols, murs, plafonds, éclairage par luminaires gradables, informatique, électricité.</p>
+
+<p>Un travail sur l’écriture de ces deux murs de rangement aboutit à un calepinage simple abritant un linéaire important pour le classement des dossiers.</p>
+
+<p>L'entrée principale de l’école, également sortie de secours draine des flux importants d’enfants, personnels et prestataires extérieurs à l’établissement. </p>
+
+<p>Apporter un nouvel éclairage proche de la lumière du jour et une peinture claire permet de le rendre plus sécurisant et visuellement attractif. Les baies vitrées du secrétariat et de l’accueil situées sous le porche bénéficie de cette clarté et permet une meilleure surveillance des personnes. </p>
 
 ![](RC4/jem-cao-0001.jpg)
 
@@ -81,7 +98,13 @@ Accueil et secrétariat
 
 ---
 
-Salle de déjeuner des professeurs
+### Année 5- Salle à manger des enseignants et du personnel administratif
+
+<p>Le volume existant est encombré de placards inoccupés ou peu pratiques, il est sombre, éclairé par un néon et des éclairages en dalle de plafond type bureau qui le rend particulièrement peu accueillant. Une contrainte à respecter: cette pièce mène vers une issue de secours sur une courette de l’immeuble voisin de l’école. La restauration fonctionne en libre-service sans réelle organisation du free flow. </p>
+
+<p>Le principe générateur a été de retrouver de la convivialité et de pouvoir déjeuner dans un cadre agréable et détendant. Agrandissement de la surface par la suppression des placards. Le volume dédié est scindé en deux parties, cette scission se traduit dans les hauteurs sous plafond. Plus haute dans l’espace ‘cuisine’, plus basse dans la partie ‘déjeuner’. Cette dernière peut accueillir jusqu'à 12 personnes dans l’esprit souhaité de grande tablée. </p>
+
+<p>Un nouvelle organisation du flux est proposée entre l’entrée et la sortie avec des racks de distribution ou de recueils des couverts et plats: vitrine réfrigérée de petite dimension, des réchauffe-plats adaptés à la consommation sont installés et un ensemble de mobilier sur mesure adapté au service et à un rangement optimisé de la vaisselle et du petit électro-ménager: micro-onde, cafetière, bouilloire. Travail sur l’éclairage avec un type de luminaires permattant la variation de l’intensité lumineuse.</p>
 
 ![](RC5/jem-cao-7670.jpg)
 
