@@ -12,7 +12,10 @@ image:
   preview_only: false
   caption: ""
 ---
-## Une famille de 2 adultes et un enfant. Immeuble des années 1970. 70 m². 5 mois de travaux. 
+> ## Une famille de 2 adultes et un enfant. 
+> ## Immeuble des années 1970. 
+> ## 70 m².
+> ## 5 mois de travaux. 
 
 <p>L’organisation de l’appartement est fonctionnelle. Les occupants souhaitent moderniser leur appartement, apporter une expression plus contemporaine, et surtout trouver plus de clarté. La nécessité de trouver des rangements, livres, objets, vaisselle et surtout matériel audio est exprimée. Electricité et plomberie sont intégralement revues dans l’espace de réception et la cuisine.</p>
 

@@ -13,7 +13,10 @@ image:
   caption: ""
 ---
 
-## Famille de 2 adultes et 3 adolescentes. Immeuble 1930. 110 m². Six mois de travaux.
+> ## Famille de 2 adultes et 3 adolescentes. 
+> ## Immeuble 1930. 
+> ## 110 m². 
+> ## Six mois de travaux.
 
 <p>Les chambres et pièces de réception sont de belles tailles. Une petite salle de bains et une salle d’eau dans un ancien débarras assez exigu et qui ne permet l’implantation d’un vrai lavabo et d’un meuble bas. Ce volume est aveugle et mal ventilé.</p>
 

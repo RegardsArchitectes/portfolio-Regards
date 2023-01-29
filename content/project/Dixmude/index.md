@@ -13,7 +13,10 @@ image:
   caption: ""
 ---
 
-## Famille de 2 adultes et 4 adolescents. Immeuble 1930. 250 m². 7 mois de travaux.
+> ## Famille de 2 adultes et 4 adolescents. 
+> ## Immeuble 1930. 
+> ## 250 m². 
+> ## 7 mois de travaux.
 
 <p>Les volumes sont confortables, mais l’ensemble nécessite une refonte technique complète: électricité, plomberie, salle de bains et salles d’eau, cuisine et buanderie, chambres.
 Murs, sols et plafond sont repris. Chacune des chambres dispose de sa salle d’eau. </p>

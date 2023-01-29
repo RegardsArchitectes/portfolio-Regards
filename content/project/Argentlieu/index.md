@@ -13,7 +13,10 @@ image:
   preview_only: false
 ---
 
-## Famille de 2 adultes et 3 adolescents, 1 jeune garçon. Immeuble 1930. 145 m². Six mois de travaux.
+> ## Famille de 2 adultes et 3 adolescents, 1 jeune garçon. 
+> ## Immeuble 1930. 
+> ## 145 m². 
+> ## Six mois de travaux.
 
 <p>Cinq pièces à transformer en 6 pièces. L’ensemble nécessite une refonte technique complète : l’ensemble de l’appartement est restructuré pour trouver une chambre supplémentaire, recréer une salle d’eau avec des WC et recréer une salle de bain et une buanderie en déplaçant et transformant un ancien office. Changement du cloisonnement, salle de bains et salles d’eau, cuisine et buanderie, chambres.  Electricité, plomberie, murs, sols et plafond seront entièrement repris.</p>
 <p>Les travaux ont permis de découvrir des fuites en cours mais non encore visible et de les réparer.</p>

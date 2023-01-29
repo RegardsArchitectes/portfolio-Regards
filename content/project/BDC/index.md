@@ -21,7 +21,7 @@ Restructuration salle polyvalente. Bureau de la direction et salle de réunion. 
 ---
 
 ### Année 1- Espace polyvalent
-<p>Le lieu le plus fréquenté de l’école: point de passage pour se rendre dans les étages des classes de CE2, CM1 et CM2, Il accueille les récréations par mauvais temps, les cours de Gym, la cantine, les réunions de parents et les conférences le soir, le centre aéré le mercredi après-midi… Il faisait également office de local de rangement pour les tables et les bancs de la cantine, le matériel pour la gymnastique et la danse, la chorale etc.
+<p>Le lieu le plus fréquenté de l’école: point de passage pour se rendre dans les étages des classes de CE2, CM1 et CM2, Il accueille les récréations par mauvais temps, les cours de Gym, la cantine, les réunions de parents et les conférences le soir, le centre aéré le mercredi après-midi… Il faisait également office de local de rangement pour les tables et les bancs de la cantine, le matériel pour la gymnastique et la danse, la chorale etc.</p>
 
 <p>Mur-placard de rangement pour glisser tous les équipements recensés et nécessaires à la cantine, au sport, à la danse, la chorale, les célébrations, les conférences: toutes les activités se tenant dans cet espace.</p>
 
@@ -38,7 +38,6 @@ Au sol un marquage rouge et vert dessine un terrain de sport et des repères pou
 ![](RC1/jem-cao-6095.jpg)
 
 ![](RC1/jem-cao-6107.jpg)
-
 
 ---
 
