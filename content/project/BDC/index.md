@@ -29,7 +29,7 @@ Restructuration salle polyvalente. Bureau de la direction et salle de réunion. 
 
 <p>Traitement minimaliste des plafonds avec l’intégration de lignes d’éclairage variant avec la lumière naturelle. La sonorisation, une vidéo projection et un écran intégré donnent du confort aux réunions, concertations et conférences.
 Au sol un marquage rouge et vert dessine un terrain de sport et des repères pour le guidage de jeux.</p>
-</p>
+
 
 ![](RC1/jem-cao-6001.jpg)
 
@@ -38,6 +38,20 @@ Au sol un marquage rouge et vert dessine un terrain de sport et des repères pou
 ![](RC1/jem-cao-6095.jpg)
 
 ![](RC1/jem-cao-6107.jpg)
+
+
+---
+
+### Année 2-3 salles de classes du niveau CM2 
+
+<p>Les 3 classes de ce niveau présentaient des surfaces inégales tout en accueillant le même nombre d’élèves. Il s’agissait de rééquilibrer les surfaces pour le confort des élèves et des enseignants. </p>
+<p>Démolition puis reconstruction d’un nouveau cloisonnement accompagné d’un travail sur l’acoustique des parois et des plafonds. Changement des châssis de façade pour une meilleure isolation thermique. Les portes de communication entre classes (PMR) sont modifiées.  Les plafonds, longues dalles isolantes parallèles à la façade participe à une meilleure lecture de l’espace.</p>
+
+<p>L’éclairage led en luminaires suspendus graduel donnent un confort visuel aux enfants et enseignants selon les activités entreprises. La pose de stores occultants facilite l’utilisation des tableaux interactifs. Une note de couleur sobre est apportée en plus du blanc pour égayer les classes. </p>
+
+![](RC6/jem-cao-7711.jpg)
+
+![](RC6/jem-cao-7723.jpg)
 
 ---
 
@@ -77,13 +91,7 @@ Salle de déjeuner des professeurs
 
 ![](RC5/jem-cao-7705.jpg)
 
----
 
-Salles de classe
-
-![](RC6/jem-cao-7711.jpg)
-
-![](RC6/jem-cao-7723.jpg)
 
 ---
 
