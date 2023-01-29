@@ -19,7 +19,7 @@ author: admin
 
 design:
   background:
-    image: essai.png
+    image: fond.JPG
       # Name of image in `assets/media/`.
       # filename: 
 
