@@ -80,10 +80,9 @@ author: admin
 design:
   background:
     image: "background.jpg"
-      filters: 
-        brightness: 0.1
-        size: cover
-        position: center
+      brightness: 0.1
+      size: cover
+      position: center
       # Apply image filters?
 #      filters:
 #        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
