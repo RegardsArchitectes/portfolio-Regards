@@ -29,10 +29,10 @@ content:
     city: Paris 
 
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: link vers qqch ? 
-      link: 'https://twitter.com/Twitter'
+    - icon: linkedin
+      icon_pack: fa
+      name: LinkedIn 
+      link: 'https://www.linkedin.com/in/christine-anne-jaubert-a4710a12/'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
