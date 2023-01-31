@@ -80,6 +80,8 @@ author: admin
 design:
   background:
     image: "background.jpg"
+    #filters: 
+    #  brightness: 0.6
       # Apply image filters?
 #      filters:
 #        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -96,7 +98,7 @@ design:
 
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["200px", "0", "200px", "0"]
+    padding: ["400px", "0", "400px", "0"]
 
 
 ---
