@@ -60,7 +60,7 @@ design:
   # Text color (true=light or false=dark).
   #  text_color_light: true
 
-  design.spacing:
+  #design.spacing:
   # Customize the section spacing. Order is top, right, bottom, left.
   #  padding: ["20px", "0px", "20px", "0px"]
 
@@ -79,22 +79,12 @@ design:
 
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 
 *Tisser des lieux vivants*
 {style="font-size: 1.8rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 
  <!---
 Check out my [resumé](/about/) and portfolio below 😍
