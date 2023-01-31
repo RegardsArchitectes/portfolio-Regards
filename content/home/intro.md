@@ -73,13 +73,13 @@ design:
 #  #  gradient_angle: 180 # for the scrolling direction
 #  #  # Text color (true=light, false=dark, or remove for the dynamic #theme color).
 #  #  text_color_light: true
-#  spacing:
-#    # Customize the section spacing. Order is top, right, bottom, left.
-#    padding: ["10px", "0", "70px", "0"]
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["100px", "0", "100px", "0"]
 
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;
 
 
 *Tisser des lieux vivants*
