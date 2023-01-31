@@ -30,7 +30,7 @@ content:
 
   contact_links:
     - icon: linkedin
-      icon_pack: fa
+      icon_pack: fab
       name: LinkedIn 
       link: 'https://www.linkedin.com/in/christine-anne-jaubert-a4710a12/'
 
