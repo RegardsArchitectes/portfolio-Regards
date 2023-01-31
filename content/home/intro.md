@@ -36,11 +36,11 @@ author: admin
 
 
 
-design:
+#design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   # columns = "1"
 
-  design.background:
+#  design.background:
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -54,7 +54,7 @@ design:
   # gradient_end = "SkyBlue"
   
   # Background image.
-    image: "fond.jpg"  # Name of image in `static/media/`.
+  #  image: "fond.jpg"  # Name of image in `static/media/`.
   #  image_darken: 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -73,9 +73,24 @@ design:
 #  #  gradient_angle: 180 # for the scrolling direction
 #  #  # Text color (true=light, false=dark, or remove for the dynamic #theme color).
 #  #  text_color_light: true
+  #spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+  #  padding: ["100px", "0", "100px", "0"]
+
+design:
+  background:
+    # Choose colors such as from https://html-color-codes.info
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    # The gradient angle from 0-360 degrees
+    gradient_angle: 180
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
+
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["100px", "0", "100px", "0"]
+    padding: ["200px", "0", "200px", "0"]
+
 
 ---
 
