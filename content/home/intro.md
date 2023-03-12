@@ -14,7 +14,7 @@ design:
   background:
     -image:
       filename: background.jpg
-      brightness: 1
+      # brightness: 1
 
 
 #    image: background.jpg
