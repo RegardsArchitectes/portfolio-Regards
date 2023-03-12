@@ -12,7 +12,7 @@ author: admin
 
 design:
   background:
-    image: background.jpg
+    image: background2.jpg
 #    filters:
 #      brightness: -2
       # Apply image filters?
