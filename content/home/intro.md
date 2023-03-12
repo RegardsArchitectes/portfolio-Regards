@@ -12,7 +12,7 @@ author: admin
 
 design:
   background:
-    image:
+    -image:
       filename: background.jpg
       brightness: 0.1
 
