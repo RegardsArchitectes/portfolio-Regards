@@ -12,9 +12,9 @@ author: admin
 
 design:
   background:
-    image: "background.jpg"
-      filters:
-        brightness: "0.6"
+    image: background.jpg
+    #  filters:
+    #    brightness: "0.6"
       # Apply image filters?
       # filters:
 #        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
