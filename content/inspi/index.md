@@ -9,7 +9,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 design:
-  columns: '2'
+  columns: '3'
   view: card #showcase #card # masonry
   flip_alt_rows: true
   background: {}
@@ -20,5 +20,5 @@ design:
 
 
 
-{{< gallery album="inspirations_photos" resize_options="450x450" >}}
+{{< gallery album="inspirations_photos" resize_options="550x550" >}}
 
