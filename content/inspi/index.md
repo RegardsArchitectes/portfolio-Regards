@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 design:
   columns: '2'
-  view: showcase #card # masonry
+  view: masonry #showcase #card # masonry
   flip_alt_rows: true
   background: {}
   spacing:
@@ -18,24 +18,6 @@ design:
     padding: ["30", "0", "30px", "0"]
 ---
 
-
-
-Add your *content* here...
-
-Je suis également responsable de surveiller l'avancement du projet et de résoudre tout problème technique qui pourrait survenir pendant la rénovation.
-
-
-
-```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-```
 
 
 {{< gallery album="inspirations_photos" resize_options="450x450" >}}
