@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 design:
   columns: '2'
-  view: masonry #showcase #card # masonry
+  view: showcase #showcase #card # masonry
   flip_alt_rows: true
   background: {}
   spacing:
