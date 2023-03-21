@@ -26,6 +26,8 @@ Avant de créer l’agence Christine-Anne Jaubert, architecte DPLG, fondatrice e
 
 Elle a travaillé sur des projets à forte valeur patrimoniale, nécessitant la gestion et le regard croisé de la mise aux normes techniques (accessibilité, sécurité incendie, isolation thermique, acoustique, chauffage) et la préservation des caractéristiques et qualités patrimoniales et architecturales. Sa sensibilité la rend attentive à l’intégration des éléments d’architecture contemporaine dans un bâti existant, à l’insertion et l’intégration urbaine, au paysage, à l’environnement au sens large du terme.
 
+![screen reader text](Croquis_1.jpg "caption")
+
 L’agence REGARDS ARCHITECTES s’implique dans des projets de rénovation énergétique et de végétalisation, avec un objectif de pérennité et de respect de l’environnement.
 Une formation de conseil en environnement urbain et un DEA en histoire de l’art et de l’urbanisme ont permis Christine-Anne Jaubert à concevoir et travailler avec une exigence esthétique et avec le goût pour les nuances propres à la  «promenade architecturale».
 
