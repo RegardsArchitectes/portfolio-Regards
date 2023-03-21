@@ -32,5 +32,5 @@ Une formation de conseil en environnement urbain et un DEA en histoire de l’ar
 L’agence REGARDS ARCHITECTES et engagé sur d’autres opérations de rénovation embarquant des travaux d’amélioration des performances énergétiques sur du bâti antérieur à 1943, notamment sur des immeubles haussmanniens, comportant plusieurs bâtiments réunis par des espaces extérieurs communs : cour ou jardins.
 
 
-{{< icon name="Télécharger" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} mon CV ici.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Télécharger{{< /staticref >}} mon CV ici.
 
