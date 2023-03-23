@@ -1,7 +1,8 @@
 ---
 title: Rénovation d'un appartement
 date: 2016-06-06T17:09:45.807Z
-summary: Immeuble fin XIXème \n Un couple
+summary: Immeuble fin XIXème 
+Un couple
 draft: false
 featured: false
 tags:
@@ -13,10 +14,10 @@ image:
   preview_only: false
 ---
 
-> ## Un couple. 
-> ## Immeuble fin XIXème. 
-> ## 50 m². 
-> ## 4 mois de travaux.
+> ### Un couple. 
+> ### Immeuble fin XIXème. 
+> ### 50 m². 
+> ### 4 mois de travaux.
 
 <p>Appartement composé de différentes chambres de service réunies, par un ancien propriétaire. L’appartement est sous les toits, isolé de celui-ci par un comble perdu et jouit d’une magnifique vue sur le jardin du Luxembourg. Un couloir distribue l’ensemble des chambres et l’ensemble est morcelé et soufre d’un manque d’unité. </p>
 
