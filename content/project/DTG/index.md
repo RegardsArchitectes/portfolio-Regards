@@ -1,8 +1,8 @@
 ---
-title: DTG
+title: Diagnostic technique global
 subtitle: "Ceci est un DTG "
 date: 2022-01-01
-summary: DTG d'une école parisienne
+summary: Plusieurs projets
 tags:
   - DTG
 external_link: ""
