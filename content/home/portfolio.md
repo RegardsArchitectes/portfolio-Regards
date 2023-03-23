@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Projets'
 subtitle: ''
 
 content:
@@ -42,5 +42,5 @@ design:
   background: {}
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["30", "0", "30px", "0"]
+    padding: ["300", "0", "30px", "0"]
 ---
