@@ -34,3 +34,4 @@ L’agence REGARDS ARCHITECTES et engagé sur d’autres opérations de rénovat
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Télécharger{{< /staticref >}} mon CV.
 
+![](Croquis_1.jpg)
