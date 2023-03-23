@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: custom
-  #theme_night: custom
+  theme_night: custom
   font: stylish
   font_size: L
 
@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: false
+    show_logo: true            # CHANGED
     show_language: false
     show_day_night: true
     show_search: true
@@ -71,7 +71,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true    # CHANGED
     shape: circle
   comment:
     provider: ''
