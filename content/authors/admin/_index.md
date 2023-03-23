@@ -3,10 +3,10 @@ avatar_filename: avatar.png
 bio: Notre bureau est chargé de concevoir et de planifier des bâtiments et des
   espaces de vie, en prenant en compte l'esthétique, la fonctionnalité, la
   sécurité et le respect de l'environnement.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: about/#contact
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/wowchemy
