@@ -1,7 +1,7 @@
 ---
-title: Dixmude
+title: Rénovation d'un appartement
 date: 2020-06-10T17:27:30.715Z
-summary: rénovation d'un appart
+summary: Immeuble 1930
 draft: false
 featured: false
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Dabo
+title: Construction d'une maison
 subtitle: ""
 date: 2022-01-01
-summary: construction d'une maison
+summary: Terrain vierge
 tags:
   - Construction
 external_link: ""

@@ -1,8 +1,8 @@
 ---
-title: Argentlieu
+title: Rénovation d'un appartement
 subtitle: ""
 date: 2017-10-07T17:16:15.896Z
-summary: Rénovation complète blabla
+summary: Immeuble 1930
 draft: false
 featured: false
 tags:

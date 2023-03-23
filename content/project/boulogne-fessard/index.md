@@ -1,7 +1,7 @@
 ---
-title: Boulogne
+title: Rénovation d'un appartement
 date: 2018-02-09T17:27:30.715Z
-summary: rénovation d'un appart
+summary: Immeuble années 1970
 draft: false
 featured: false
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Blanche de Castille
+title: Rénovation et restructuration d'une école
 subtitle: ""
 date: 2021-11-01
-summary: Rénovation d'une école
+summary: Milieu du XXème
 tags:
   - Rénovation
 external_link: ""
