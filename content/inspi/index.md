@@ -9,7 +9,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 design:
-  columns: '3'
+  columns: '2'
   view: card #showcase #card # masonry
   flip_alt_rows: true
   background: {}

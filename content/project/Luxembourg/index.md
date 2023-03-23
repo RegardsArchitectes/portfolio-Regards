@@ -1,7 +1,8 @@
 ---
 title: Rénovation d'un appartement
 date: 2016-06-06T17:09:45.807Z
-summary: #Rénovation d'un appart
+summary: Immeuble fin XIXème
+Un couple
 draft: false
 featured: false
 tags:
