@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true            # CHANGED
+    show_logo: false            # CHANGED
     show_language: false
     show_day_night: true
     show_search: true
